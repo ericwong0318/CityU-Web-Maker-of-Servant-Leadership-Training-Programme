@@ -10,7 +10,10 @@ concern that I probably did not realize but important for user-friendly. In addi
 had to communicate with NGO staff with no technical background and understand
 their expectation and enquired for clarification. As the result, I learn the method to
 cooperate with non-technical people.
+<<<<<<< HEAD
 
 <p align="center">
   <img src="images/websiteNGO.png" width="200">
 </p>
+=======
+>>>>>>> e8af52b5a55483a647c8467662fefaa113317d94
