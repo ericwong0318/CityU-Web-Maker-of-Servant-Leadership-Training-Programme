@@ -1,7 +1,7 @@
 # Website
  Web Maker of Servant Leadership Training Programme of CityU
 
-Third, I used to be a member of Web Maker team of Servant Leadership Training
+I used to be a member of Web Maker team of Servant Leadership Training
 Programme of CityU. I delivered the webpage design service for NGO and the following
 is the website my team had made (http://efcchtalec.org.hk/) which made by Elementor, a page
 builder of WordPress. I learned how to find out the need of users, such as making a
