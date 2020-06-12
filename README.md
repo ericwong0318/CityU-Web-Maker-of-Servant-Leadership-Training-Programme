@@ -1,15 +1,7 @@
 # Website
- Web Maker of Servant Leadership Training Programme of CityU
+Web Maker of Servant Leadership Training Programme of CityU
 
-I used to be a member of Web Maker team of Servant Leadership Training
-Programme of CityU. I delivered the webpage design service for NGO and the following
-is the website my team had made [基督教播道會興田邨道真堂愛禮信長者中心](http://efcchtalec.org.hk/) which made by Elementor, a page
-builder of WordPress. I learned how to find out the need of users, such as making a
-button to increase font size for the elderly because they might have Presbyopia. It is a
-concern that I probably did not realize but important for user-friendly. In addition, I
-had to communicate with NGO staff with no technical background and understand
-their expectation and enquired for clarification. As the result, I learn the method to
-cooperate with non-technical people.
+I used to be a member of the “Web Maker” team of the Servant Leadership Training Programme of City University of Hong Kong. I delivered the webpage design service for an NGO and the following is the [website](http://efcchtalec.org.hk/)I had made , which was made by WordPress and its plugins. I learned how to find out the needs of users. Such as making a button to increase the font size for the elderly because they might have visual impairments, for example, presbyopia, and simple website structure for assistive tools navigation. It is a concern that I probably did not realize but important for the user experiment. Besides, I had to communicate with NGO staffs with no technical background and understand their expectation and enquired for clarification. As a result, I learn the method to cooperate with non-technical people.
 
 <p align="center">
   <img src="images/websiteNGO.png" width="300">
